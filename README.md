@@ -89,7 +89,9 @@ For the 50 ft test, the timing error was approximately **2.6%**.
 
 ## Experimental Setup
 
-![Final TDR experimental setup](images/page_55_image_01.jpeg)
+<p align="center">
+  <img src="TDR_Project_Images/page_55_image_01.jpeg" alt="TDR system-level architecture" width="700">
+</p>
 
 The prototype integrated the DE10-Lite, gate driver, diode sampling network, RG-58 cable, oscilloscope, and external power supply.
 
