@@ -1,0 +1,7 @@
+# Quartus Prime Project File
+# Reconstructed for the DE10-Lite / MAX 10 TDR pulse generator
+
+QUARTUS_VERSION = "16.0.0"
+
+# Revisions
+PROJECT_REVISION = "TDR_FPGA"

@@ -1,0 +1,35 @@
+#============================================================
+# TDR FPGA Pulse Generator - Quartus Settings File
+# Board: Terasic DE10-Lite
+# Device: Intel/Altera MAX 10 10M50DAF484C7G
+#============================================================
+
+# Device / project settings
+set_global_assignment -name FAMILY "MAX 10 FPGA"
+set_global_assignment -name DEVICE 10M50DAF484C7G
+set_global_assignment -name TOP_LEVEL_ENTITY PROJECTpulse
+set_global_assignment -name VERILOG_FILE PROJECTpulse.v
+set_global_assignment -name SDC_FILE TDR_FPGA.sdc
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+
+#============================================================
+# 50 MHz onboard clock
+# Recovered from the older DE10-Lite Terasic project:
+# MAX10_CLK1_50 is physically connected to PIN_P11.
+# The new HDL port is named CLOCK_50.
+#============================================================
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to CLOCK_50
+set_location_assignment PIN_P11 -to CLOCK_50
+
+#============================================================
+# TDR pulse output
+#============================================================
+# Electrical standard is known, but the original physical GPIO location
+# was not present in the recovered files. Intentionally leave pulse_out
+# without a location assignment until the hardware connection is known.
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to pulse_out
+
+# Example ONLY after you know the correct physical FPGA pin:
+# set_location_assignment PIN_<GPIO_PIN> -to pulse_out
+
+set_global_assignment -name LAST_QUARTUS_VERSION "25.1std.0 Lite Edition"
