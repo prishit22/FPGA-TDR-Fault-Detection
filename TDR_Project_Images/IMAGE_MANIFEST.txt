@@ -1,0 +1,32 @@
+Extracted 30 embedded image occurrences from Final Project Report(1).pdf
+
+Page 06 | image 01 | xref 269 | page_06_image_01.png | 1440x1200
+Page 07 | image 01 | xref 316 | page_07_image_01.png | 819x857
+Page 08 | image 01 | xref 336 | page_08_image_01.jpeg | 1017x763
+Page 09 | image 01 | xref 359 | page_09_image_01.jpeg | 1011x622
+Page 10 | image 01 | xref 374 | page_10_image_01.jpeg | 1200x1600
+Page 15 | image 01 | xref 531 | page_15_image_01.png | 975x450
+Page 17 | image 01 | xref 581 | page_17_image_01.png | 717x576
+Page 18 | image 01 | xref 616 | page_18_image_01.png | 711x480
+Page 19 | image 01 | xref 645 | page_19_image_01.jpeg | 971x622
+Page 21 | image 01 | xref 699 | page_21_image_01.png | 975x399
+Page 22 | image 01 | xref 727 | page_22_image_01.png | 586x539
+Page 28 | image 01 | xref 1007 | page_28_image_01.jpeg | 967x647
+Page 29 | image 01 | xref 1033 | page_29_image_01.jpeg | 1030x662
+Page 31 | image 01 | xref 1109 | page_31_image_01.jpeg | 667x610
+Page 32 | image 01 | xref 1174 | page_32_image_01.png | 209x41
+Page 32 | image 02 | xref 1176 | page_32_image_02.png | 150x22
+Page 47 | image 01 | xref 1766 | page_47_image_01.jpeg | 667x251
+Page 49 | image 01 | xref 1809 | page_49_image_01.jpeg | 1166x874
+Page 50 | image 01 | xref 1822 | page_50_image_01.jpeg | 1213x640
+Page 50 | image 02 | xref 1823 | page_50_image_02.jpeg | 798x734
+Page 51 | image 01 | xref 645 | page_51_image_01.jpeg | 971x622
+Page 52 | image 01 | xref 1853 | page_52_image_01.jpeg | 1179x888
+Page 53 | image 01 | xref 1882 | page_53_image_01.jpeg | 372x409
+Page 53 | image 02 | xref 1883 | page_53_image_02.png | 879x593
+Page 55 | image 01 | xref 1935 | page_55_image_01.jpeg | 908x1211
+Page 56 | image 01 | xref 1951 | page_56_image_01.jpeg | 1431x1073
+Page 57 | image 01 | xref 1962 | page_57_image_01.png | 474x252
+Page 57 | image 02 | xref 1964 | page_57_image_02.jpeg | 1030x662
+Page 58 | image 01 | xref 1982 | page_58_image_01.jpeg | 1036x622
+Page 59 | image 01 | xref 2001 | page_59_image_01.jpeg | 943x677
