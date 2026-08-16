@@ -23,7 +23,7 @@ For RG-58 cable, a velocity factor of approximately `0.66c` was used.
 ## System Architecture
 
 <p align="center">
-  <img src="TDR_Project_Images/page_06_image_01.png" alt="TDR system-level architecture" width="700">
+  <img src="TDR_Project_Images/page_06_image_01.png" alt="TDR system-level architecture" width="500">
 </p>
 
 The main stages are:
