@@ -134,19 +134,9 @@ FPGA-TDR-Fault-Detection/
 └── README.md
 ```
 
-## Sample Image Links for GitHub
-
-If the extracted images are stored in an `images` folder, these Markdown lines can be pasted directly into the README:
-
-```markdown
-![TDR system architecture](images/page_06_image_01.png)
-![Final experimental setup](images/page_55_image_01.jpeg)
-```
-
-## Authors
+## Author
 
 - Prishit Kumar
-- Selim Sanni
 
 **Project period:** January 7, 2026 - April 8, 2026
 
