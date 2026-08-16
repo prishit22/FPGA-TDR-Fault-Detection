@@ -2,8 +2,6 @@
 
 A proof-of-concept **Time Domain Reflectometry (TDR)** system for locating faults in underground/coaxial cables using an **Intel DE10-Lite FPGA**, high-speed pulse generation, a gate-driver stage, a Schottky-diode sampling network, and reflected-pulse timing.
 
-This project was developed as an **EELE-2939 Capstone Design Project** at Lakehead University.
-
 ## Project Overview
 
 The system launches a nanosecond-scale electrical pulse into an RG-58 transmission line. An impedance discontinuity - such as an open or short circuit - produces a reflected pulse. The round-trip delay between the transmitted and reflected signals is used to estimate the fault distance:
